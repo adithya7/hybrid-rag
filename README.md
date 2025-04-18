@@ -8,7 +8,7 @@ See [requirements.txt](requirements.txt).
 
 ## Data
 
-We provide the HuggingFace dataset loading scripts in [data/](data/). Before loading the dataset, use the original releases to download the source data.
+We provide the HuggingFace dataset loading script in [artifacts/misc/summhay/](artifacts/misc/summhay/). Before loading the dataset, use the original release to download the source data (see [README](artifacts/misc/summhay/README.md)).
 
 ## Experiments
 
