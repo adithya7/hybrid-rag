@@ -16,7 +16,7 @@ See [src/configs/](src/configs/) for the full list of retrievers, summarizers an
 
 ### Downloading models
 
-Download retriever and embedding models from HuggingFace using [bash_scripts/download_models.sh](bash_scripts/download_models.sh).
+Download retriever and embedding models from HuggingFace using [bash_scripts/download.slurm](bash_scripts/download.slurm).
 
 ### Baselines
 
