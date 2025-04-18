@@ -1,6 +1,6 @@
 # Hybrid RAG and Long-context
 
-Code for our preprint, "Estimating Optimal Context Length for Hybrid Retrieval-augmented Multi-document Summarization"
+Code for our preprint, [Estimating Optimal Context Length for Hybrid Retrieval-augmented Multi-document Summarization](https://arxiv.org/abs/2504.12972).
 
 ## Setup
 
