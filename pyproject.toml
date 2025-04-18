@@ -1,0 +1,7 @@
+[tool.ruff]
+exclude = []
+
+[tool.ruff.lint]
+select = ["ALL"]
+ignore = ["G004", "N801", "S101", "D203", "D212", "FIX002", "C901", "COM812", "ISC001", "UP032", "D104", "INP001", "FBT001", "FBT002"]
+fixable = ["I001"]  # Only enable autofix for I001

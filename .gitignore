@@ -1,0 +1,6 @@
+*.json
+*.jsonl
+tmp/
+__pycache__/
+api_keys/
+tokens/
